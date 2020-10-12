@@ -1,0 +1,10 @@
+UsayCompare\Pages\AuthenticationPage.class
+UsayCompare\Pages\ShoppingCartSummaryPage.class
+UsayCompare\Pages\MyAccountPage.class
+UsayCompare\Base\BasePage.class
+UsayCompare\Pages\ProductPage.class
+UsayCompare\Base\BrowserSelector.class
+UsayCompare\Base\LoadProp.class
+UsayCompare\Base\Utils.class
+UsayCompare\Pages\HomePage.class
+UsayCompare\Pages\AccountCreationPage.class

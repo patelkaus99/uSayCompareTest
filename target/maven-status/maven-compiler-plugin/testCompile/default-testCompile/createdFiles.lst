@@ -1,0 +1,5 @@
+UsayCompare\Steps\AccountCreationSteps.class
+UsayCompare\Steps\AddProductToCartSteps.class
+UsayCompare\Runner\Hooks.class
+UsayCompare\Runner\RunTest.class
+UsayCompare\Steps\LoginSteps.class
